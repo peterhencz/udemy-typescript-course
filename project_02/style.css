@@ -1,0 +1,27 @@
+body {
+  display: grid;
+  place-items: center center;
+  font-size: 16px;
+  font-family: "Alata", sans-serif;
+  background: rgb(23, 16, 35);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#log {
+  padding: 1em;
+  border-radius: 0.125em;
+  font-size: 4em;
+  color: white;
+  text-transform: uppercase;
+}
+
+.clg {
+  position: relative;
+  font-size: 3rem;
+  color: rgb(133, 207, 175);
+}
+
+strong {
+  color: rgb(206, 97, 93);
+}
